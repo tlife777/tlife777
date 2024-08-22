@@ -1,6 +1,11 @@
 ## Hi, there!👋
 
-[![tlife's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tlife777&bg_color=FFFFFF&color=991b1b&line=991b1b&point=991b1b&area=true&hide_border=true)](https://github.com/tlife777/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tlife777&bg_color=0d1117&color=ffffff&line=b91c1c&point=991b1b&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tlife777&bg_color=FFFFFF&color=ffffff&line=991b1b&point=991b1b&area=true&hide_border=true">
+  <img alt="tlife's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tlife777&bg_color=FFFFFF&color=ffffff&line=991b1b&point=991b1b&area=true&hide_border=true">
+</picture>
+
 
 ## 🧰 My Toolkit
 
